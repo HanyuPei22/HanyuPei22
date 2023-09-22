@@ -1,5 +1,20 @@
 ### Hi there 👋
 
+My name is Hanyu Pei. I am currently a research assistant in department of statistics at the Chinese University of Hong Kong. 
+
+I received my B.S. degree in mathematical statistics from Wuhan University of Technology and Master degree in mathematics from CUHK.
+
+🔭Currently, I am interested in:
+
+- Statistical machine learning
+- Causal inference
+- XAI
+- Reinforcement learning
+
+
+
+
+
 <!--
 **HanyuPei22/HanyuPei22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
