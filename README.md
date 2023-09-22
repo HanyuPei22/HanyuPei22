@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Hanyu Pei. I am currently a research assistant in department of statistics at the Chinese University of Hong Kong. 
+My name is Hanyu Pei. I'm a research assistant in department of statistics at the Chinese University of Hong Kong. 
 
 I received my B.S. degree in mathematical statistics from Wuhan University of Technology and Master degree in mathematics from CUHK.
 
