@@ -10,6 +10,7 @@ I received my B.S. degree in mathematical statistics from Wuhan University of Te
 - Causal inference
 - XAI
 - Reinforcement learning
+- quasi-conformal geometry
 
 
 
