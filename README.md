@@ -2,7 +2,7 @@
 
 ## 🎓 About Me
 
-I am deeply interested in **Deep Learning** and **Artificial Intelligence Theory**. Currently, I am engaging in related research and actively expanding my programming skills. I am passionate about learning new skills and expanding my knowledge horizon. 
+I am deeply interested in **Machine Learning** and **Deep Learning Theory**. Currently, I am engaging in related research and actively expanding my programming skills. I am passionate about learning new skills and expanding my knowledge horizon. 
 
 ## 💼 Skills
 
