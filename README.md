@@ -28,7 +28,7 @@ I am deeply interested in **Machine Learning** and **Deep Learning Theory**. Cur
 
 Feel free to reach out to me if you share similar interests or want to discuss deep learning and AI theories. Let's connect and learn together!
 
-📧 **Email**: [peihanyu1122@163.com]
+📧 **Email**: [peihanyu1122@163.com][peihanyu1122@gmail.com]
 <!--
 **HanyuPei22/HanyuPei22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
